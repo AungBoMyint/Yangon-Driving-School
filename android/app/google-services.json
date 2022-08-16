@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562606680354",
+    "project_id": "yangon-driving-school",
+    "storage_bucket": "yangon-driving-school.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562606680354:android:077053ca057a3b9eea5d7b",
+        "android_client_info": {
+          "package_name": "com.kzn.yds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562606680354-t4jnje8pqs4ev2vobjmthdc1g1sr6ai3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.yds",
+            "certificate_hash": "0cace59864e260a684ebebf2cc33b999f2950cd4"
+          }
+        },
+        {
+          "client_id": "562606680354-fso9ilpnbcj2lnbod4agb84cv6f19t4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5oROWS1xcEJFi-f-nID0NDOYrLwgCURo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562606680354-fso9ilpnbcj2lnbod4agb84cv6f19t4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
